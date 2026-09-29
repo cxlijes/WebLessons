@@ -46,3 +46,16 @@ input textarea {
     color: #FFFFFF;
     text-transform: uppercase;
 }
+
+form {
+    background-image: url("src/assets/img/background-img.webp");
+}
+
+.btn-gradient {
+    padding: 22px 48px;
+    border: none;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #4a7be8 0%, #8b4fe8 100%);
+    color: #fff;
+    cursor: pointer;
+}
